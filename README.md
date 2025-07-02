@@ -6,7 +6,7 @@ I'm a tech enthusiast with a passion for helping others—whether it's fixing is
 
 ### 💡 What I'm Working On
 - A job application tracking tool (Flask + MySQL)
-- Learning front-end basics (HTML/CSS)
+- Working thru Complete Python Developer in 2025: Zero to Mastery
 
 ---
 
